@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Diana Cole"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Diana Cole is a senior Lecturer in the School of Mathematics, Statistics and Actuarial Science at the University of Kent. She is part of the Statistical Ecology at Kent research group, known as SE@K and the National Centre for Statistics Ecology (NCSE). She is author of the book Parameter Redundancy and Identifability."
+  location         : "Canterbury"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
