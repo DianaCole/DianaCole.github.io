@@ -84,11 +84,11 @@ author:
   avatar           : "Diana.png"
   bio              : "Diana Cole is a senior Lecturer in the School of Mathematics, Statistics and Actuarial Science at the University of Kent. She is part of the Statistical Ecology at Kent research group, known as SE@K and the National Centre for Statistics Ecology (NCSE). She is author of the book Parameter Redundancy and Identifability."
   location         : "Canterbury"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "University of Kent"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "d.j.cole@kent.ac.uk"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-8109-4832"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@DinCole2017"
   vine             :
   weibo            :
   xing             :
