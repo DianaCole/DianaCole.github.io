@@ -1,15 +1,20 @@
 ---
-title: "Paper Title Number 2"
+title: "Parameter Redundancy and Identifiability in Hidden Markov Models"
 collection: publications
 permalink: /publication/Cole2019
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'This paper demonstrates how to detect parameter redundancy in HMMs.'
+date: 2019-01-01
+venue: 'Metron'
+paperurl: 'http://link.springer.com/article/10.1007/s40300-019-00156-3'
+citation: 'Cole. D. J. (2019) Parameter Redundancy and Identifiability in Hidden Markov Models. Metron, 77'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Hidden Markov models are a flexible class of models that can be used to describe time series data which depends on an unobservable Markov process. 
+As with any complex model, it is not always obvious whether all the parameters are identifiable, or if the model is parameter redundant; 
+that is, the model can be reparameterised in terms of a smaller number of parameters. This paper considers different methods for detecting
+parameter redundancy and identifiability in hidden Markov models. We examine both numerical methods and methods that involve symbolic algebra. 
+These symbolic methods require a unique representation of a model, known as an exhaustive summary. We provide an exhaustive summary for hidden 
+Markov models and show how it can be used to investigate identifiability.
+
+<a href="http://link.springer.com/article/10.1007/s40300-019-00156-3">  Open access Paper Link</a> <a href="files/HMMcode.zip">  Computer Code</a></p>
